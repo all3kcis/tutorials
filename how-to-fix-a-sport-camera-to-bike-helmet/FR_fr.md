@@ -125,7 +125,7 @@ Mettre un petit bout de scotch côté intérieure du casque pour éviter que la 
 
 ![Fixer une caméra sportive sur un casque de vélo - étape 7 - Collage](img/20170129_161506.jpg)  
 
-Encollage du casque, veillez à bien mettre suffisament de colle dans les trous des vis.  
+Encollage du casque, veillez à bien mettre suffisamment de colle dans les trous des vis.  
 
 ![Fixer une caméra sportive sur un casque de vélo - étape 7 - Collage](img/20170129_161319.jpg)  
 
