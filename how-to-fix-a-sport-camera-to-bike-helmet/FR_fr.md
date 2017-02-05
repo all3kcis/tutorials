@@ -33,7 +33,7 @@ Le support sera positionné sur l'avant du casque et non sur le dessus pour êtr
 - Support de camera pour tester (réglage des mouvements)
 
 ## Introduction
-Prenez bien le temps de voir comment ajuster au mieux le support sur votre  casque, surtout si le modèle diffère du mien.  
+Prener bien le temps de voir comment ajuster au mieux le support sur votre  casque, surtout si le modèle diffère du mien.  
 Vous pourrez ainsi adapter au fur et à mesure du tutoriel si besoin.
 
 ## Première étape : Analyse
@@ -45,14 +45,14 @@ Détacher la casquette et positionner le support de caméra à l'endroit voulu.
 
 ## Deuxième étape : Préparation du support
 
-Découpe du support pour une taille plus réduite. (Attention à garder une taille minimum pour que la colle est assez de prise)  
+Découpe du support pour une taille plus réduite. (Attention à garder une taille minimum pour que la colle ait assez de prise)  
 J'ai réalisé ma découpe en fonction des formes du casque pour que l'intégration du support se voit le moins possible.  
-Scotchez temporairement le support sur le casque à l'endroit voulu, repérez les découpes à effectuer.  
+Scotcher temporairement le support sur le casque à l'endroit voulu, repérer les découpes à effectuer.  
   
 ![Fixer une caméra sportive sur un casque de vélo - étape 2 - Préparation du support](img/20170129_140042.jpg)
 
 ![Fixer une caméra sportive sur un casque de vélo - étape 2 - Préparation du support](img/20170129_140750.jpg)  
-Effectuez les découpes, pour ma part je n'avais plus de disque à découpe sur la dremel j'y suis donc allez à la pince coupante ça marche bien aussi  :smile:  
+Effectuer les découpes, pour ma part je n'avais plus de disque à découpe sur la dremel j'y suis donc allez à la pince coupante ça marche bien aussi  :smile:  
   
 ![Fixer une caméra sportive sur un casque de vélo - étape 2 - Préparation du support](img/20170129_142945.jpg)  
 Un coup de ponçage pour enlever les irrégularités et voila le support est prêt.  
@@ -60,20 +60,20 @@ Un coup de ponçage pour enlever les irrégularités et voila le support est pr�
 > **Pensez à poncer le dessous du support** pour que la colle puisse bien prendre
 
 ## Troisième étape : Découpe du casque
-Repositionnez le support sur le casque et tracé les découpes, le plus droit possible ! (mieux que moi de préférence)  :laughing:
+Repositionner le support sur le casque et tracer les découpes, le plus droit possible ! (mieux que moi de préférence)  :laughing:
 
 ![Fixer une caméra sportive sur un casque de vélo - étape 3 - Découpe du casque](img/20170129_143353.jpg)  
 Dans un premier temps, couper le plastique dur au cutter, ensuite il se décolle très facilement.
 
 ![Fixer une caméra sportive sur un casque de vélo - étape 3 - Découpe du casque](img/20170129_144036.jpg)  
-Puis découpez le polystyrène pour avoir une surface plane. (C'est ici que j'ai utilisé le scalpel pour être plus précis).  
+Puis découper le polystyrène pour avoir une surface plane. (C'est ici que j'ai utilisé le scalpel pour être plus précis).  
 J'ai creusé de 2 à 4mm de profondeur. (au minimum l'épaisseur du support)   
 
 ![Fixer une caméra sportive sur un casque de vélo - étape 3 - Découpe du casque](img/20170129_144930.jpg)  
-Placez le support pour vérifier qu'il rentre convenablement.   
+Placer le support pour vérifier qu'il rentre convenablement.   
 
 ![Fixer une caméra sportive sur un casque de vélo - étape 3 - Découpe du casque](img/20170129_145453.jpg)  
-Pensez à bien vérifier que la camera peut être réglée librement sans bloquer ni sur le casque ni sur le support.  
+Penser à bien vérifier que la camera peut être réglée librement sans bloquer ni sur le casque ni sur le support.  
 
 ## Quatrième étape : (Optionnelle mais offre une meilleure solidité)
 
@@ -81,13 +81,13 @@ Pour être sûr que le support soit bien fixé j'ai voulu rajouter des vis...
 J'ai donc pris deux vis dont j'ai taillé les têtes au format rectangulaire du support pour pouvoir les encastrer.  
 
 ![Fixer une caméra sportive sur un casque de vélo - étape 4 - (Optionnelle mais offre une meilleure solidité)](img/20170129_152204.jpg)  
-Faites les trous correspondant dans le casque (pas besoin de perceuse, juste le foret et quelques tours de main suffisent)  
+Faites les trous correspondants dans le casque (pas besoin de perceuse, juste le foret et quelques tours de main suffisent)  
 
 ![Fixer une caméra sportive sur un casque de vélo - étape 4 - (Optionnelle mais offre une meilleure solidité)](img/20170129_154139.jpg)  
 Ensuite étape importante !  
 Mettre en place le support avec les vis, repérer la taille que doivent faire les vis.  
-Prenez l'épaisseur du casque dont vous retirez quelques millimètres.  
-**Ceci pour une question de sécurité**, si vous chutez sur l'avant du casque le polystyrène va faire son job et se contrater,  
+Prener l'épaisseur du casque dont vous retirez quelques millimètres.  
+**Ceci pour une question de sécurité**, si vous chutez sur l'avant du casque le polystyrène va faire son job et se contracter,  
 il faut donc prévoir une marge pour les vis si vous voulez pas les retrouver dans votre front ;)
 
 ![Fixer une caméra sportive sur un casque de vélo - étape 4 - (Optionnelle mais offre une meilleure solidité)](img/20170129_154940.jpg)
@@ -97,7 +97,7 @@ Le support est prêt avec ses deux vis de fixation.
 
 ## Cinquième étape : Découpe de la visière
 
-Rien de compliqué ici, positionnez la visière sur le casque **sans le support**, repérez les découpes à faire en vous plaçant face au casque. 
+Rien de compliqué ici, positionner la visière sur le casque **sans le support**, repérer les découpes à faire en vous plaçant face au casque. 
 
 ![Fixer une caméra sportive sur un casque de vélo - étape 5 - Découpe de la visière](img/20170129_162435.jpg)  
 
@@ -113,15 +113,15 @@ Préparation du mélange Epoxy
 
 ![Fixer une caméra sportive sur un casque de vélo - étape 7 - Collage](img/20170129_160704.jpg)  
 
-Commencez par remplir les trous du support si vous avez choisi de rajouter les vis  
+Commencer par remplir les trous du support si vous avez choisi de rajouter les vis  
 
 ![Fixer une caméra sportive sur un casque de vélo - étape 7 - Collage](img/20170129_160736.jpg)  
 
-Rajoutez les vis et soyez généreux sur la dose de colle, ne pas oublier le pas de vis.  
+Rajouter les vis et soyez généreux sur la dose de colle, ne pas oublier le pas de vis.  
 
 ![Fixer une caméra sportive sur un casque de vélo - étape 7 - Collage](img/20170129_161415.jpg)  
 
-Mettre un petit bout de scotch côté intérieure du casque pour éviter que la colle ne s'écoule des trous pendant le séchage.  
+Mettre un petit bout de scotch côté intérieur du casque pour éviter que la colle ne s'écoule des trous pendant le séchage.  
 
 ![Fixer une caméra sportive sur un casque de vélo - étape 7 - Collage](img/20170129_161506.jpg)  
 
@@ -139,7 +139,7 @@ On assemble les deux parties et on laisse au moins 24h de séchage !
 
 ## Bonus :
 
-Avec ce support il y a juste à le loger dans l'éaeration central du casque.
+Avec ce support il y a juste à le loger dans l'aération central du casque.
 ça tient plus ou moins mais ça peut dépanner !
 
 ![Fixer une caméra sportive sur un casque de vélo - Bonus 1/2](img/20170129_132453.jpg)
