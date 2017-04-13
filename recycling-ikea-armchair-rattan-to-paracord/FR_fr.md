@@ -30,7 +30,7 @@ Le but étant de retirer le rotin d'origine et le remplacer par de la paracorde 
 
 Retirer tout le rotin, utiliser un cutter en particulier pour les morceaux qui restes collés.  
 ![fauteuil Ikea Masö paracorde](img/20170104_200652.jpg)  
-Poncer au papier de verre les restes de colle et les éclats de soudure (ils risquerait d'endommager la paracorde pendant le tressage)  
+Poncer au papier de verre les restes de colle et les éclats de soudure (ils risqueraient d'endommager la paracorde pendant le tressage)  
   
 Prenez un peu de temps pour définir les motifs voulu.
 ![fauteuil Ikea Masö paracorde](img/20170104_221435.jpg)  
