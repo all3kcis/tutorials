@@ -1,6 +1,6 @@
 # Trek UTMB/TMB 2018
 
-![Trek UTMB/TMB 2018](img/bandeau.png)
+![Trek UTMB/TMB 2018](img/bandeau.jpg)
 **Autheur** : All3kcis - **Source** : [blog.all-3kcis.fr - Trek UTMB/TMB 2018](https://blog.all-3kcis.fr/trek-tmb-utmb-2018/)  
 **Github** : [Contribute](https://github.com/all3kcis/tutorials/tree/master/trek-tmb-utmb-2018)
 
@@ -41,7 +41,7 @@ Aout 2018, Trek en quasi autonomie à deux autour du Mont Blanc.
 
 ## Vidéo
 
-[![Watch the video](img/bandeau.png)](https://vimeo.com/297794189)
+[![Watch the video](img/bandeau.jpg)](https://vimeo.com/297794189)
 
 ## Récit
 
