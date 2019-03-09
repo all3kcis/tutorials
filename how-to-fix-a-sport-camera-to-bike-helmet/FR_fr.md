@@ -13,8 +13,6 @@ Le support sera positionné sur l'avant du casque et non sur le dessus pour êtr
 **Niveau de difficulté** : facile  
 
 
-> **En bonus** une version ultra simple, durée 2 minutes, voir fin du tutoriel  :smirk: 
-
 ## Les outils
 
 - Cutter
@@ -110,10 +108,3 @@ On assemble les deux parties et on laisse au moins 24h de séchage !
 ![Fixer une caméra sportive sur un casque de vélo](img/20170204_182214.jpg)  
 
 
-## Bonus :
-
-Avec ce support il y a juste à le loger dans l'aération central du casque.
-ça tient plus ou moins mais ça peut dépanner !
-
-![Fixer une caméra sportive sur un casque de vélo - Bonus 1/2](img/20170129_132453.jpg)
-![Fixer une caméra sportive sur un casque de vélo - Bonus 2/2](img/20170129_132629.jpg)
