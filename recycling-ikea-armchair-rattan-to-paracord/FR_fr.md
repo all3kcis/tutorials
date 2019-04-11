@@ -1,7 +1,7 @@
 # Recycler un fauteuil Ikea modèle Masö (rotin vers paracorde)
 
 ![Recycler un fauteuil Ikea modèle Masö (rotin vers paracorde)](img/bandeau.jpg)
-**Autheur** : All3kcis - **Source** : [All-3kcis.fr - Recycler un fauteuil Ikea modèle Masö (rotin vers paracorde)](https://tutorials.all-3kcis.fr/recycling-ikea-armchair-rattan-to-paracord/)  
+**Autheur** : All3kcis - **Source** : [blog.alexis-mesnard.fr - Recycler un fauteuil Ikea modèle Masö (rotin vers paracorde)](https://blog.alexis-mesnard.fr/recycling-ikea-armchair-rattan-to-paracord/)  
 **Github** : [Contribute](https://github.com/all3kcis/tutorials/tree/master/recycling-ikea-armchair-rattan-to-paracord)
 
 ## Présentation
