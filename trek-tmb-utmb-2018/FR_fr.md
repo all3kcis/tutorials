@@ -18,7 +18,7 @@ Aout 2018, Trek en quasi autonomie à deux autour du Mont Blanc.
  - [Sac MH500 40L](https://www.decathlon.fr/sac-a-dos-mh500-40l-noirorange-id_8382980.html)
  - [Tente Quickhiker Ultralight 3](https://www.decathlon.fr/tente-quickhiker-ultralight-3-id_8245651.html)
  - [Water bag 15L](https://fr.aliexpress.com/store/product/Naturehike-Waterproof-Dry-Bag-Roll-Top-Dry-Compression-Sack-for-Kayaking-Beach-Rafting-Boating-Hiking-Camping/3721007_32857958803.html) (pour ranger le duvet et des vêtements)
- - [Matela SEATOSUMMIT Ultralight](https://www.decathlon.fr/ultralight-si-id_8382713.html)
+ - [Matelas SEATOSUMMIT Ultralight](https://www.decathlon.fr/ultralight-si-id_8382713.html)
  - [AUKEY Chargeur Panneau Solaire 20W](https://www.amazon.fr/gp/product/B019XAVMPY/)
  - [Popotte](https://fr.aliexpress.com/item/FMS-X2-New-Fire-Maple-compact-One-Piece-Camping-Stove-Heat-Exchanger-Pot-camping-equipment-set/32633881760.html) Equivalent JetBoil
  - Couverture de survie
@@ -31,7 +31,7 @@ Aout 2018, Trek en quasi autonomie à deux autour du Mont Blanc.
  - Couteau (pas sur la photo)
 
 ![Iophilise](img/20180720_203643.jpg)  
- 5 jours d'autonomie en iophilisé  
+ 5 jours d'autonomie en lyophilisé  
 
 ## Préparation
 
