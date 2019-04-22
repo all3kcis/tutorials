@@ -20,9 +20,13 @@ Décoration, mettre en avant ses vinyles
 - [Tourillon hêtre 6mm](https://www.leroymerlin.fr/v3/p/produits/tourillon-hetre-cannele-sans-noeud-6-x-6-mm-l-1-m-e133317)
 - Colle à bois
   
+## Ressources
   
+  - [plan.eps](ressources/plan.eps)
+
 ## Photos  
 
+![Fabrication mur de vinyle](img/plan.jpg)  
 ![Fabrication mur de vinyle](img/01.jpg)  
 ![Fabrication mur de vinyle](img/02.jpg)  
 ![Fabrication mur de vinyle](img/03.jpg)  
