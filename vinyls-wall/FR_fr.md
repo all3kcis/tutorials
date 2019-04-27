@@ -1,7 +1,7 @@
-# Mur de vinyles
+# Etagère / Mur de vinyles
 
 ![Mur de vinyles](img/bandeau.jpg)  
-**Autheur** : All3kcis - **Source** : [blog.alexis-mesnard.fr - Mur de vinyles](https://blog.alexis-mesnard.fr/vinyls-wall/)  
+**Autheur** : All3kcis - **Source** : [blog.alexis-mesnard.fr - Etagère / Mur de vinyles](https://blog.alexis-mesnard.fr/vinyls-wall/)  
 **Date** : 2019 - **Github** : [Contribute](https://github.com/all3kcis/tutorials/tree/master/vinyls-wall)
 
 ## Présentation
