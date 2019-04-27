@@ -1,11 +1,12 @@
-# Trek UTMB/TMB 2018
+# Trek UTMB / TMB 2018 (Tour du Mont Blanc)
 
-![Trek UTMB/TMB 2018](img/bandeau.jpg)
-**Autheur** : All3kcis - **Source** : [blog.alexis-mesnard.fr - Trek UTMB/TMB 2018](https://blog.alexis-mesnard.fr/trek-tmb-utmb-2018/)  
+![Trek UTMB / TMB 2018](img/bandeau.jpg)
+**Autheur** : All3kcis - **Source** : [blog.alexis-mesnard.fr - Trek UTMB / TMB 2018 Tour du Mont Blanc](https://blog.alexis-mesnard.fr/trek-tmb-utmb-2018/)  
 **Github** : [Contribute](https://github.com/all3kcis/tutorials/tree/master/trek-tmb-utmb-2018)
 
 ## Présentation
-Aout 2018, Trek en quasi autonomie à deux autour du Mont Blanc.  
+Août 2018, Trek en quasi autonomie à deux autour du Mont Blanc.   
+1 Nuit en refuge - 5 jours d'autonomie alimentaire 
 
 **Durée** : 7 jours - 44h de marche  
 **KM** : 175km  
@@ -30,7 +31,7 @@ Aout 2018, Trek en quasi autonomie à deux autour du Mont Blanc.
  - Scie à cable
  - Couteau (pas sur la photo)
 
-![Iophilise](img/20180720_203643.jpg)  
+![Lyophilise](img/20180720_203643.jpg)  
  5 jours d'autonomie en lyophilisé  
 
 ## Préparation
