@@ -5,7 +5,7 @@
 **Date** : 2018 - **Github** : [Contribute](https://github.com/all3kcis/tutorials/tree/master/pallets-bed)
 
 ## Présentation
-Strucutre en tasseaux de pin raboté placage bois de palette et gravure  
+Structure en tasseaux de pin raboté placage bois de palette et gravure  
 Taille : 160x200 cm
 
 ## Le matériel
