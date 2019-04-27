@@ -2,7 +2,7 @@
 
 ![Lit bois de palettes](img/bandeau.jpg)  
 **Autheur** : All3kcis - **Source** : [blog.alexis-mesnard.fr - Lit en bois de palettes](https://blog.alexis-mesnard.fr/pallet-bed/)  
-**Date** : 2019 - **Github** : [Contribute](https://github.com/all3kcis/tutorials/tree/master/pallet-bed)
+**Date** : 2018 - **Github** : [Contribute](https://github.com/all3kcis/tutorials/tree/master/pallet-bed)
 
 ## Présentation
 Strucutre en tasseaux de pin raboté placage bois de palette et gravure  
