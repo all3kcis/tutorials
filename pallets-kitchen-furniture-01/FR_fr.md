@@ -5,10 +5,14 @@
 **Date** : 2017 - **Github** : [Contribute](https://github.com/all3kcis/tutorials/tree/master/pallets-kitchen-furniture-01)
 
 ## Présentation
-Un meuble qui a de la gueule ! Trois modules de 60cm de larges fixés entre eux.
-Un module avec niche éclairée et deux grands tiroirs.  
-Un module central pour four encastrable + niche de rangement pour les accessoires du four  
-Un module de quatre tiroirs
+Un meuble qui a de la gueule ! Trois modules de 60cm de larges fixés entre eux.  
+Un module avec niche éclairée et deux grands tiroirs.    
+Un module central pour four encastrable + niche de rangement pour les accessoires du four    
+Un module de quatre tiroirs  
+
+Structure en tasseaux de pin rabotés, Plaquage planches de palettes, plan de travail et étagère en hêtre.  
+Bloc led incrusté dans l'étagère pour éclairer le plan de travail et bandeau de led dans la	niche branchés sur un détecteur  
+
 
 **Durée** : Long :)  
 **Prix** : ~ 450-500€  
