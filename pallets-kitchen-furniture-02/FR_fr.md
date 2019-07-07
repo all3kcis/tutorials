@@ -1,11 +1,12 @@
 # Meuble de rangement cuisine en palettes et hêtre
 
 ![Meuble de rangement cuisine en palettes et hêtre](img/bandeau.jpg)  
-**Autheur** : All3kcis - **Source** : [blog.alexis-mesnard.fr - Meuble de rangement cuisine en palettes et hêtre](https://blog.alexis-mesnard.fr/pallets-kitchen-furniture-02/)  
+**Auteur** : All3kcis - **Source** : [blog.alexis-mesnard.fr - Meuble de rangement cuisine en palettes et hêtre](https://blog.alexis-mesnard.fr/pallets-kitchen-furniture-02/)  
 **Date** : 2017 - **Github** : [Contribute](https://github.com/all3kcis/tutorials/tree/master/pallets-kitchen-furniture-02)
 
 ## Présentation
-Meuble de rangement, structure en tasseaux de pin, placage bois de palettes, plan de travail en hêtre. Trois modules de 60cm de larges fixés entre eux.  
+Meuble de rangement, structure en tasseaux de pin, placage bois de palettes, plan de travail en hêtre.  
+Trois modules de 60cm de larges fixés entre eux.  
 Deux modules placard surmontés d'un tiroir   
 Un module central avec deux petits placards pour ranger les moules à gâteaux et plats, trois tiroirs à fruits et légumes et un tiroir de rangement divers     
 

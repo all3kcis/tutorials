@@ -1,7 +1,7 @@
 # Lit en bois de palettes
 
 ![Lit bois de palettes](img/bandeau.jpg)  
-**Autheur** : All3kcis - **Source** : [blog.alexis-mesnard.fr - Lit en bois de palettes](https://blog.alexis-mesnard.fr/pallets-bed/)  
+**Auteur** : All3kcis - **Source** : [blog.alexis-mesnard.fr - Lit en bois de palettes](https://blog.alexis-mesnard.fr/pallets-bed/)  
 **Date** : 2018 - **Github** : [Contribute](https://github.com/all3kcis/tutorials/tree/master/pallets-bed)
 
 ## Présentation

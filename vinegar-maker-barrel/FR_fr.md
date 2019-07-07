@@ -1,7 +1,7 @@
 # Restauration d'un vinaigrier en fût de chêne
 
 ![Vinaigrier tonneau](img/bandeau.jpg)  
-**Autheur** : All3kcis - **Source** : [blog.alexis-mesnard.fr - Restauration d'un vinaigrier en fût de chêne](https://blog.alexis-mesnard.fr/vinegar-maker-barrel/)  
+**Auteur** : All3kcis - **Source** : [blog.alexis-mesnard.fr - Restauration d'un vinaigrier en fût de chêne](https://blog.alexis-mesnard.fr/vinegar-maker-barrel/)  
 **Date** : 2017 - **Github** : [Contribute](https://github.com/all3kcis/tutorials/tree/master/vinegar-maker-barrel)
 
 ## Présentation

@@ -1,7 +1,7 @@
 # Meuble de cuisine en palettes et hêtre
 
 ![Meuble de cuisine en palettes et hêtre](img/bandeau.jpg)  
-**Autheur** : All3kcis - **Source** : [blog.alexis-mesnard.fr - Meuble de cuisine en palettes et hêtre](https://blog.alexis-mesnard.fr/pallets-kitchen-furniture-01/)  
+**Auteur** : All3kcis - **Source** : [blog.alexis-mesnard.fr - Meuble de cuisine en palettes et hêtre](https://blog.alexis-mesnard.fr/pallets-kitchen-furniture-01/)  
 **Date** : 2017 - **Github** : [Contribute](https://github.com/all3kcis/tutorials/tree/master/pallets-kitchen-furniture-01)
 
 ## Présentation

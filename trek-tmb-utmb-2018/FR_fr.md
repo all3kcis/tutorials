@@ -1,7 +1,7 @@
 # Trek UTMB / TMB 2018 (Tour du Mont Blanc)
 
 ![Trek UTMB / TMB 2018](img/bandeau.jpg)
-**Autheur** : All3kcis - **Source** : [blog.alexis-mesnard.fr - Trek UTMB / TMB 2018 Tour du Mont Blanc](https://blog.alexis-mesnard.fr/trek-tmb-utmb-2018/)  
+**Auteur** : All3kcis - **Source** : [blog.alexis-mesnard.fr - Trek UTMB / TMB 2018 Tour du Mont Blanc](https://blog.alexis-mesnard.fr/trek-tmb-utmb-2018/)  
 **Github** : [Contribute](https://github.com/all3kcis/tutorials/tree/master/trek-tmb-utmb-2018)
 
 ## Présentation
