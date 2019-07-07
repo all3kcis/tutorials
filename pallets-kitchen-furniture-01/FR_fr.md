@@ -32,7 +32,7 @@ Bloc led incrusté dans l'étagère pour éclairer le plan de travail et bandeau
 - [Tablette Hetre 200x40x1.8 - 30€](https://www.leroymerlin.fr/v3/p/produits/tablette-hetre-lamelle-colle-l-200-x-l-40-cm-x-ep-18-mm-e1501913546)
 - [Roulettes x12 - 28€](https://www.leroymerlin.fr/v3/p/produits/roulette-pivotante-a-platine-diam-35-mm-e1401442847)
 - [Bandeau LED cornière alu - 15€](https://fr.aliexpress.com/item/32367475101.html)
-- [Bloc prises - 18€]()
+- [Bloc prises - 18€](https://www.leroymerlin.fr/v3/p/produits/double-prise-avec-terre-city-metal-lexman-e1401455992)
 - Huile de lin - 10€
 - Contreplaqué 5mm - 15€
 - Colle à bois - Colle Epoxy
