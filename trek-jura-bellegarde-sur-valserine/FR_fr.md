@@ -1,7 +1,7 @@
 # Trek Jura - Bellegarde-sur-valserine - 2019
 
 ![Jura - Bellegarde-sur-valserine 2019](img/bandeau.jpg)  
-**Auteur** : All3kcis - **Source** : [blog.alexis-mesnard.fr - Trek Jura - Bellegarde-sur-valserine - 2019](https://blog.alexis-mesnard.fr/trek-jura-bellegarde-sur-valserine/)  
+**Auteur** : All3kcis - **Source** : [blog.alexis-mesnard.fr - Trek Jura - Bellegarde-sur-valserine - 2019](https://blog.alexis-mesnard.fr/trek-jura-bellegarde-sur-valserine-fr)  
 **Github** : [Contribute](https://github.com/all3kcis/tutorials/tree/master/trek-jura-bellegarde-sur-valserine)
 
 ## Présentation

@@ -1,7 +1,7 @@
 # Meuble de rangement cuisine en palettes et hêtre
 
 ![Meuble de rangement cuisine en palettes et hêtre](img/bandeau.jpg)  
-**Auteur** : All3kcis - **Source** : [blog.alexis-mesnard.fr - Meuble de rangement cuisine en palettes et hêtre](https://blog.alexis-mesnard.fr/pallets-kitchen-furniture-02/)  
+**Auteur** : All3kcis - **Source** : [blog.alexis-mesnard.fr - Meuble de rangement cuisine en palettes et hêtre](https://blog.alexis-mesnard.fr/pallets-kitchen-furniture-02)  
 **Date** : 2017 - **Github** : [Contribute](https://github.com/all3kcis/tutorials/tree/master/pallets-kitchen-furniture-02)
 
 ## Présentation

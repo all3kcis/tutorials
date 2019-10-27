@@ -1,7 +1,7 @@
 # Fixer une caméra sportive sur un casque de vélo
 
 ![Comment fixer (discrètement et solidement) une camera type Gopro sur un casque de vélo, tutoriel simple en quelques étapes rapides](img/bandeau.jpg)
-**Auteur** : All3kcis - **Source** : [blog.alexis-mesnard.fr - Fixer une caméra sportive sur un casque de vélo](https://blog.alexis-mesnard.fr/how-to-fix-a-sport-camera-to-bike-helmet/)  
+**Auteur** : All3kcis - **Source** : [blog.alexis-mesnard.fr - Fixer une caméra sportive sur un casque de vélo](https://blog.alexis-mesnard.fr/how-to-fix-a-sport-camera-to-bike-helmet)  
 **Github** : [Contribute](https://github.com/all3kcis/tutorials/tree/master/how-to-fix-a-sport-camera-to-bike-helmet)
 
 ## Présentation

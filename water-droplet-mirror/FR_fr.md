@@ -1,7 +1,7 @@
 # Miroir goutte d'eau en palettes
 
 ![Miroir goutte d'eau en palettes](img/bandeau.jpg)  
-**Auteur** : All3kcis - **Source** : [blog.alexis-mesnard.fr - Miroir goutte d'eau en palettes](https://blog.alexis-mesnard.fr/water-droplet-mirror/)  
+**Auteur** : All3kcis - **Source** : [blog.alexis-mesnard.fr - Miroir goutte d'eau en palettes](https://blog.alexis-mesnard.fr/miroir-goutte-eau)  
 **Année** : 2019 - **Github** : [Contribuer](https://github.com/all3kcis/tutorials/tree/master/water-droplet-mirror)
 
 ## Présentation
