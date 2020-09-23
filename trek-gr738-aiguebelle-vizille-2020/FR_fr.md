@@ -1,11 +1,11 @@
-# Trek GR738 Aiguebelle Vizille 2020
+# Trek GR738 Massif de Belledonne - Aiguebelle Vizille 2020
 
 ![Trek GR738](img/bandeau.jpg)
-**Auteur** : All3kcis - **Source** : [blog.alexis-mesnard.fr - Trek GR738 Aiguebelle Vizille 2020](https://blog.alexis-mesnard.fr/trek-gr738-aiguebelle-vizille-2020-fr)  
+**Auteur** : All3kcis - **Source** : [blog.alexis-mesnard.fr - Trek GR738 Massif de Belledonne - Aiguebelle Vizille 2020](https://blog.alexis-mesnard.fr/trek-gr738-aiguebelle-vizille-2020-fr)  
 **Github** : [Contribute](https://github.com/all3kcis/tutorials/tree/master/trek-gr738-aiguebelle-vizille-2020) - **Vidéo** : [Youtube](https://www.youtube.com/watch?v=MGEU7Kq-EqM)
 
 ## Présentation
-Trek en autonomie de Aiguebelle à Vizille sur le GR 738 en Août 2020.  
+Trek en autonomie dans le massif de Belledonne de Aiguebelle à Vizille sur le GR 738 en Août 2020.  
 1 Nuit au refuge de la Martinette (je recommande !) - 5 jours d'autonomie alimentaire  
 Trek plus compliqué que le TMB, le terrain est beaucoup moins roulant, plus cassant. Pour info il est comparé au GR20.  
 
