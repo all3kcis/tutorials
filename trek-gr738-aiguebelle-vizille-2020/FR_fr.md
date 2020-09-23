@@ -2,7 +2,7 @@
 
 ![Trek GR738](img/bandeau.jpg)
 **Auteur** : All3kcis - **Source** : [blog.alexis-mesnard.fr - Trek GR738 Aiguebelle Vizille 2020](https://blog.alexis-mesnard.fr/trek-gr738-aiguebelle-vizille-2020-fr)  
-**Github** : [Contribute](https://github.com/all3kcis/tutorials/tree/master/trek-gr738-aiguebelle-vizille-2020)
+**Github** : [Contribute](https://github.com/all3kcis/tutorials/tree/master/trek-gr738-aiguebelle-vizille-2020) - **Vidéo** : [Youtube](https://www.youtube.com/watch?v=MGEU7Kq-EqM)
 
 ## Présentation
 Trek en autonomie de Aiguebelle à Vizille sur le GR 738 en Août 2020.  
@@ -42,10 +42,6 @@ Trek plus compliqué que le TMB, le terrain est beaucoup moins roulant, plus cas
 [GPX GR738](ressources/GR738-Vizille-Aiguebelle.gpx)  
 __Il est possible que le tracé GPX ne soit exactement le même que le balisage sur le terrain, privilégié donc le balisage dans ce cas__
 
-## Vidéo
-
-[![Watch the video](img/bandeau.jpg)](https://www.youtube.com/watch?v=MGEU7Kq-EqM)
-
 ## Etapes en résumé
 
 ### Etape 1: (Nocturne) Aiguebelle -> Tourbières de Montendry
@@ -62,3 +58,13 @@ __Il est possible que le tracé GPX ne soit exactement le même que le balisage 
 19km 1750 D+
 ### Etape 7: Lacs Robert -> Vizille
 21km 250D+ 1850D-
+
+## Photos
+
+![GR738 - Aiguebelle Vizille](img/01.jpg)  
+![GR738 - Aiguebelle Vizille](img/02.jpg)  
+![GR738 - Aiguebelle Vizille](img/03.jpg)  
+![GR738 - Aiguebelle Vizille](img/04.jpg)  
+![GR738 - Aiguebelle Vizille](img/05.jpg)  
+![GR738 - Aiguebelle Vizille](img/06.jpg)  
+![GR738 - Aiguebelle Vizille](img/07.jpg)  
